@@ -1,0 +1,28 @@
+body {
+    background-color: #f3d978;
+    color: #e31c1c;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+p {
+    font-size: 20px;
+}
+
+h1 {
+    color: #e31c1c;
+    font-size: 50px;
+}
+
+a {
+    color: #dc322f;
+    font-size: 18px;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #39dd3e;
+}
+
+ul {
+    list-style-type: square;
+}
