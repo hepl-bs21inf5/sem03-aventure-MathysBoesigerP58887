@@ -11,3 +11,5 @@ Mathys Boesiger
 | Total        | 2h           | 2h          |                               |
 
 lien du site: https://hepl-bs21inf5.github.io/sem03-aventure-MathysBoesigerP58887/
+
+![Organigramme](Images/Organigramme%20Aventure-1.jpg "Mon organigramme")
