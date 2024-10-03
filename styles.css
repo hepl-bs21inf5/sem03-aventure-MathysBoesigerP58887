@@ -1,7 +1,7 @@
 body {
-    background-color: #fdf6e3;
-    color: #657b83;
-    font-family: 'Courier New', Courier, monospace;
+    background-color: #f3d978;
+    color: #e31c1c;
+    font-family: 'Times New Roman', Times, serif;
 }
 
 p {
@@ -9,7 +9,8 @@ p {
 }
 
 h1 {
-    color: #268bd2;
+    color: #e31c1c;
+    font-size: 50px;
 }
 
 a {
@@ -19,7 +20,7 @@ a {
 }
 
 a:hover {
-    color: #6c71c4;
+    color: #39dd3e;
 }
 
 ul {
